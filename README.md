@@ -75,7 +75,7 @@ Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=s
 Clone o repositório:
 
 ``` bash
-git clone https://github.com/pedrobuzolin/nome-do-repositorio.git
+git clone https://github.com/pedrobuzolin/TabelaFipe.git
 ```
 
 Entre na pasta:
